@@ -1,0 +1,4 @@
+{
+  "_comment":"only put non-workbook related info here. Workbook-related variable will pass to the program through command line argument at run-time!",
+  "PMMS_URI":"http://www.freddiemac.com/pmms/docs/historicalweeklydata.xls"
+}
