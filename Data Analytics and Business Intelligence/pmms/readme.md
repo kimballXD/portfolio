@@ -11,6 +11,7 @@
     - xlwings - manipulate data in excel file through python
     - requests - download web file
     - pyinstaller - compile python script into executable to enable the application running in the environment without python installation
+- DISCLAMMER: This program is developed with personal free time and equipment. 
 
 ### 2. Introduction
 
