@@ -62,12 +62,13 @@ def main(config_path, master_path, txdate, dump_rng):
     wb = xw.Book(master_path)
     name, rng = dump_rng.split('!')
     wb.sheets(name).range(rng).value = data[:8]
-    
 
-import sys
-try:
-    # directly get txdate, r_pmms through cmd arg
-    main(*sys.argv[1:])
-except Exception as e:
-    print(e)
-    end = input('Press enter to close')
+    
+if __name__ == '__main__':
+    import sys
+    try:
+        # directly get txdate, r_pmms through cmd arg
+        main(*sys.argv[1:])
+    except Exception as e:
+        print(e)
+        end = input('Press enter to close')
