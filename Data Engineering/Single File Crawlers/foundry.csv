@@ -1,0 +1,4 @@
+id;NGOname;NGOtype;name;orgType;address;employee;capital;since;registerNo;productType;product;source;enName
+T267;台灣鑄造學會;產業公會;遠立行工業股份有限公司;;台中縣龍井鄉忠和村工業路188巷35號;;;;;[鑄件生產廠];[軸件];http://www.foundry.org.tw:8080/institute/getFactoryByID.do?factory.id=10&forward=show;
+T368;台灣鑄造學會;產業公會;勤旺輕金屬科技股份有限公司;;437台中市大甲區幼獅工業區東九街8號;;2000萬;1997/7/1;;[鑄件生產廠];[汽機車零件, 航空國防零件];http://www.foundry.org.tw:8080/institute/getFactoryByID.do?factory.id=1007&forward=show;
+T380;台灣鑄造學會;產業公會;再壕金屬有限公司;;新北市五股區中直路45號;30;1000萬;1982/1/1;;[鑄件生產廠];[抽水機, 手工具, 模具, 管接頭、凸緣及閥, 休閒及體育用品, 軸件, 航空國防零件, 船舶及機械零件, 壓縮機及發動機, 馬達及減速機, 汽機車零件, 工具機及零件];http://www.foundry.org.tw:8080/institute/getFactoryByID.do?factory.id=1022&forward=show;Tsai-Hao Metal Co., Ltd.
