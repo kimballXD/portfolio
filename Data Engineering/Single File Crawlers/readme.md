@@ -1,13 +1,10 @@
-# Single-File Python Web Crawlers - Industrial Association Members
+# Single-File Python Web Crawlers - Industrial Association Membersp
 
 ### 1. Summary
 
-- Motivation: working result. Done under the supervise of Dr. Hsieh-Fei Yu, Sinica Academia.
-
-- Task Type: web scraping
-
+- Motivation: professional working result. Done under the supervise of Dr. Hsieh-Fei Yu, Sinica Academia.
+- Task type: web scraping
 - Topic: industrial research
-
 - Technologies: 
 
   - **Python 2.7** 
@@ -28,18 +25,16 @@ This repo consists of three single-file web crawlers,  `foundry.py`,`metal.py`, 
 
 - `foundry.py` - crawls [Taiwan Foundry Association](http://www.foundry.org.tw:8080/institute/')
 
-  **This script stop working because of the change of website structure.**
+  **This script stop working because of the change of the website structure.**
 
-  The member information of this website has to be accessed with `POST` request.  I retrieved the whole set of possible `POST` values by searching the source code of the webpages and the cookie.
+  The member information of this website has to be accessed with `POST` request.  I gathered the whole set of possible `POST` payload values by searching through the source code of the webpages and the cookie.
 
 - `metal.py` -  crawls [Taiwan Metal Industry Association](http://www.trmsa.org.tw/Member.aspx)
 
-  Since the website is built with AJAX technology, the member information will not be contained in the response of a "direct" HTTP request to the website.  To solve the problem, I use Selenium browser simulator to interact with the website and to trigger some browser events, such as mouse clicking, to make the website return the member information. 
+  A direct HTTP `GET` request to the website will not receive the response which contains the member information we need because of the application of AJAX technology of the website.  To solve the problem, I use Selenium browser simulator to interact with the website and to trigger some browser events, such as mouse clicking, to send out a `POST` request that makes the website return the member information. 
 
 - `superFluid.py` - crawls [Taiwan Supercritical Fluid Association](http://www.tscfa.org.tw/)
 
-  The member information can be retrieved with a simple`GET` request. 
-
-
+  The member information can be retrieved with a straightforward `GET` request. 
 
 All three scripts can be executed in command line. Sample results of the three crawlers can be found in `foundry.csc`, `metal.csv`, and `superFluid.csv`,
