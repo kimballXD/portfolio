@@ -4,7 +4,7 @@
 
 - Motivation: course project - *Engineering Cloud Computing*
 - Task type: virtualization
-- Topic: NA
+- Topic: command line application. 
 - Technologies: 
   - **Python 3.6** with the following packages
     - multiprocessing
