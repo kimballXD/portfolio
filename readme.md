@@ -1,6 +1,6 @@
 # Portfolio of Kimball Wu
 
-Till now, my works concentrated in the three areas, which are: **business intelligence, data engineering**, and **machine learning**. I have 2 ~ 3 years of industrial experience in the business intelligence and data engineering field and have trained hard on the third one.  The following are the one-line description of the projects contained in this portfolio. In you are interested in specific project, please follow the folder structure to read the project readme.
+Till now, my works concentrated in the three areas, which are: **business intelligence, data engineering**, and **machine learning**. I have 2 ~ 3 years of industrial experience in the business intelligence and data engineering fields and have solidly trained on the third one.  The followings are the one-line description of the projects contained in this portfolio. If you are interested in any specific project, please follow the folder structure of this repository to read the project readme.
 
 #### Business Intelligence
 
@@ -9,7 +9,7 @@ Till now, my works concentrated in the three areas, which are: **business intell
 
 #### Data Engineering
 
-- ehvagrant - pip-installable enhanced *Vagrant*  (a virtual machine management tool) interface.
+- Ehvagrant - a pip-installable enhanced *Vagrant*  (a virtual machine management tool) interface.
 - Single File Crawlers - several single-file website crawlers.
 - Web PTT Scrapy Crawler - website crawler implemented with Python crawler framework *Scrapy*. 
 
