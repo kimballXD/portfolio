@@ -21,7 +21,7 @@
 
 [KB Dashboard](https://datastudio.google.com/u/0/reporting/1-L-U-sZUb5XXmHi4oEhGIF4sIzFNnETO/page/Clw5) is a website usage dashboard of [Indiana University Knowledge Base](https://kb.iu.edu/) domain. The dashboard and an [explaining document](https://kb.iu.edu/d/bdln) are open to the general public access. The website usage data are collected and imported from the correspondent Google Analytics account. 
 
-![sys](D:\coding projects\portofolio\Business Intelligence\IUKB Dashboard\sys.png)
+![sys](sys.png)
 
 As showed in the system architecture graph, the dashboard applies many functionality of Google Data Board, such as data blending (essentially "left join" in database system), calculated fields, and data filtering, to achieve current dashboard features. 
 

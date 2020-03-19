@@ -22,7 +22,7 @@ Most of businesses Mr. Cooper operates are deeply connected to the dynamic of th
 
 #### System architecture
 
-![system](D:\coding projects\portofolio\Business Intelligence\RateFacts\system.png)
+![system](system.png)
 
 The core component of the RateFacts is a MS Excel file, i.e., the Masterfile. Masterfile simultaneously work as the user interface and drives the backend data processing sequence. The typical working process of the Masterfile is:
 
