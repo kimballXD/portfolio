@@ -13,7 +13,7 @@
 
 ### 2. Introduction
 
-[PTT](https://www.ptt.cc/) is the largest terminal-based bulletin board system in Taiwan.  It is found and by the students of [Department of Computer Sicnece and Information Engineering, National Taiwan University](https://www.csie.ntu.edu.tw/) and operated mostly by the students of National Taiwan University.  PTT is very popular in Taiwan. By Nov 6, 2019, it ranked 22th in the Alexa Site Ranking of Taiwanese websites. The daily active user of PTT is around 100 thousands and they generate thousands of posts and comments everyday. Also, in many cases, PTT users actively participate in social activism and lead the public discussion of social issues. These facts makes PTT one of the most important websites -- if not *the most important website* -- if we want to understand the dynamics of Taiwanese online community. 
+[PTT](https://www.ptt.cc/) is the largest terminal-based bulletin board system in Taiwan.  It was built by the students of [Department of Computer Sicnece and Information Engineering, National Taiwan University](https://www.csie.ntu.edu.tw/) and operated mostly by the students of National Taiwan University.  PTT is very popular in Taiwan. By Nov 6, 2019, it ranked 22th in the Alexa Site Ranking of Taiwanese websites. The daily active user of PTT is around 100 thousands and they generate thousands of posts and comments everyday. Also, in many cases, PTT users actively participate in social activism and lead the public discussion of social issues. These facts makes PTT one of the most important websites -- if not *the most important website* -- if we want to understand the dynamics of Taiwanese online community. 
 
 ### 3. Usage
 
