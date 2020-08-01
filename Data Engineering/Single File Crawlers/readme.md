@@ -1,4 +1,4 @@
-# Single-File Python Web Crawlers - Industrial Association Membersp
+# Single-File Python Web Crawlers - Industrial Association Membership
 
 ### 1. Summary
 
